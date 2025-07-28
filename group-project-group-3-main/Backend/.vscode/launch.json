@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-PearllogisticsApplication<pearllogistics>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.pearllogistics.PearllogisticsApplication",
+      "projectName": "pearllogistics",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
